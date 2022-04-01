@@ -2,9 +2,9 @@
   "name": "discordjs-startup",
   "version": "1.0.0",
   "description": "discord.js on Heroku",
-  "main": "discordbot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node discordbot.js",
+    "start": "node index.js",
     "lint": "eslint ."
   },
   "repository": {
